@@ -2,9 +2,9 @@
 
 
 1. Clonar el repositorio con
-   `git clone https://github.com/nexun/curso-node.git`
+   `git clone https://github.com/guazontsubasa/cursonode`
 2. Moverse por consola a la carpeta donde se encuentra nuestro archivo package.json
-   `cd curso-node/`
+   `cd cursonode/`
 3. Ejecutar
    `npm install`
 4. Recuerden instalar nodemon con el comando
